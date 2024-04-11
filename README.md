@@ -10,4 +10,4 @@ Job Scraper is a Python-based tool designed to extract job title, description, a
 * Customizable to scrape job listings from different websites.
 
 # Technologies Used
-Python
+- Python
